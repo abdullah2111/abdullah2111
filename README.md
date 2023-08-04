@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=abdullah2111&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-[![](https://visitcount.itsvg.in/api?id=abdullah2111&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![image](https://github.com/abdullah2111/abdullah2111/assets/133376055/fb1fc019-29c6-4fc2-81ef-8f57e6f2a08c)
