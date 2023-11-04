@@ -29,7 +29,7 @@ Skills: HTML / CSS/ JAVASCRIPT / REACT / PYHTON / JAVA
 ![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullah2111&show_icons=true&theme=transparent)
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abdullah2111)  
+![Abdullah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdullah2111&theme=react)]
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=abdullah2111)  
 
