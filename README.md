@@ -1,4 +1,4 @@
-![A Web Wizard!](https://pbs.twimg.com/profile_banners/1720713691946164224/1699086943/600x200)
+![A Web Wizard!](https://pbs.twimg.com/profile_banners/1720713691946164224/1699086943/800x200)
 ### Hi there 👋, I'm Abdullah
 #### A Web Wizard!
 
