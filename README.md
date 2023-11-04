@@ -2,7 +2,7 @@
 #### A Web Wizard 
 ![A Web Wizard ](https://scontent.fcla2-1.fna.fbcdn.net/v/t39.30808-6/385735430_850012686705275_3518436872805378588_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=49d041&_nc_eui2=AeGbI0Ix76VOqny4aGGQdaTcR8G5wAxA1fZHwbnADEDV9gMKMZ2FVR3G-Zi-LdDWa5QOJ9LjUt7n66pZwoj1WFgF&_nc_ohc=1NRjB1Jnx-EAX_Y0cCg&_nc_zt=23&_nc_ht=scontent.fcla2-1.fna&oh=00_AfBqbxFHC8CAx1acyxPwWi5KdbXE7AoYK0pELh8A3xPN1g&oe=651F7384)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullah2111&label=Profile%20views&color=0e75b6&style=flat" alt="abdullah2111" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=abdullah2111&label=Profile%20views&color=0e75b6&style=flat](https://pbs.twimg.com/profile_banners/1720713691946164224/1699086943/600x200)" alt="abdullah2111" /> </p>
 
 As a Computer Science & Engineering student, I'm deeply passionate about coding and love exploring the fascinating world of technology. I specialize in web development and have hands-on experience with HTML, CSS, and JavaScript to craft beautiful and responsive web applications. I'm constantly learning and exploring new technologies to stay up-to-date with the rapidly evolving tech landscape.  Currently, I'm working on Fiverr & University Projects to enhance my skills and gain valuable experience. I'm open to new opportunities, collaborations, or just having a chat about tech! Let's learn, grow, and build together! Happy coding! 😄
 
