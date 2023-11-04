@@ -26,8 +26,7 @@ Skills: HTML / CSS/ JAVASCRIPT / REACT / PYHTON / JAVA
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah2111&layout=compact)
 
-![Abdullah's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=abdullah2111&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/abdullah2111/github-readme-stats#gh-dark-mode-only)
-![Abdullah's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=abdullah2111&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/abdullah2111/github-readme-stats#gh-light-mode-only)
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullah2111&show_icons=true&theme=transparent)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullah2111&show_icons=true&count_private=true)  
 
